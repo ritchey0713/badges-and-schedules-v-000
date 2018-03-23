@@ -20,5 +20,5 @@ end
 end
 
 def printer(array)
-puts badge_maker(array) + assign_rooms(array)
+puts badge_maker(name) + assign_rooms(array)
 end
