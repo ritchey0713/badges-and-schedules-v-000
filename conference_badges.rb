@@ -19,6 +19,6 @@ end
 
 end
 
-def printer
+def printer(array)
 
 end
