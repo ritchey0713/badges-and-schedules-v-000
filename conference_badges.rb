@@ -28,6 +28,4 @@ def printer(array)
     puts printed
   end
 
-
-
 end
