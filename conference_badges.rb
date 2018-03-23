@@ -12,5 +12,5 @@ def assign_rooms(array)
   array.collect do |rooms|
     "Hello, " + batch_badge_creator(array) + "You'll be assigned to room #{rooms}"
 
-
+end
 end
