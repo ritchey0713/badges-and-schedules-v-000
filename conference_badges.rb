@@ -19,4 +19,5 @@ end
 
 end
 
-def 
+def printer
+end
